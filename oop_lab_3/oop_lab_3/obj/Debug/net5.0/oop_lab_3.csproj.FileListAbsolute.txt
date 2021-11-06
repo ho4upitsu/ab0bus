@@ -1,0 +1,16 @@
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\oop_lab_3.exe
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\oop_lab_3.deps.json
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\oop_lab_3.runtimeconfig.json
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\oop_lab_3.runtimeconfig.dev.json
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\oop_lab_3.dll
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\ref\oop_lab_3.dll
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\bin\Debug\net5.0\oop_lab_3.pdb
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.csproj.AssemblyReference.cache
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.AssemblyInfoInputs.cache
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.AssemblyInfo.cs
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.dll
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\ref\oop_lab_3.dll
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.pdb
+C:\Users\AbobA\source\repos\oop_lab_3\oop_lab_3\obj\Debug\net5.0\oop_lab_3.genruntimeconfig.cache
