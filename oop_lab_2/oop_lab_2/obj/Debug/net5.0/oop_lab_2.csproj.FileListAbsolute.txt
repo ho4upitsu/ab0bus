@@ -1,0 +1,16 @@
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\oop_lab_2.exe
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\oop_lab_2.deps.json
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\oop_lab_2.runtimeconfig.json
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\oop_lab_2.runtimeconfig.dev.json
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\oop_lab_2.dll
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\ref\oop_lab_2.dll
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\bin\Debug\net5.0\oop_lab_2.pdb
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.csproj.AssemblyReference.cache
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.AssemblyInfoInputs.cache
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.AssemblyInfo.cs
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.dll
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\ref\oop_lab_2.dll
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.pdb
+C:\Users\AbobA\source\repos\oop_lab_2\oop_lab_2\obj\Debug\net5.0\oop_lab_2.genruntimeconfig.cache
